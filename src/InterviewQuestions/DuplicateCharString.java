@@ -20,7 +20,7 @@ public class DuplicateCharString {
 			}
 			
 			else
-			{
+			{System.out.println("addd");
 				hs.put(ch,1);
 			}
 			
