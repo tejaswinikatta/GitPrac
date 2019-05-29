@@ -17,6 +17,7 @@ public class DuplicateCharString {
 			if(hs.get(ch)!=null) {
 				
 				hs.put(ch, hs.get(ch)+1);
+				System.out.println("jsfhurgbjbgr");
 			}
 			
 			else
